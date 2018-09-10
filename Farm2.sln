@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farm2", "Farm2\Farm2.csproj", "{5BA20B3D-8AD6-4C21-93FA-F340DDE8FD47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farm2.2", "Farm2.2\Farm2.2.csproj", "{9A22CA5B-0F28-4CF3-B050-B909057F19C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5BA20B3D-8AD6-4C21-93FA-F340DDE8FD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BA20B3D-8AD6-4C21-93FA-F340DDE8FD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BA20B3D-8AD6-4C21-93FA-F340DDE8FD47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A22CA5B-0F28-4CF3-B050-B909057F19C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A22CA5B-0F28-4CF3-B050-B909057F19C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A22CA5B-0F28-4CF3-B050-B909057F19C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A22CA5B-0F28-4CF3-B050-B909057F19C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,8 +14,7 @@ namespace Farm2
             //Farm newFarm = new Farm();
             try
             {
-                Console.WriteLine("Farm has not been implement yet");
-
+                Console.WriteLine("Farm has not been implemented yet.");
             }
             catch (Exception nogo)
             {
