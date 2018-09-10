@@ -14,7 +14,7 @@ namespace Farm2._3
             Horse ed = new Horse("Ed", "My Name is Ed. I talk like you humans even though I am a horse.\n");
             Duck darkwing = new Duck("Darkwing Duck", "I am the terror that flaps in the night, I am the scourge that pecks at your nightmares, I am DARKWING DUCK!\n");
             Dog lassie = new Dog("Lassie", "WOOF, WOOF.  What's that Lassie? WOOF WOOF.  Timmy's in a well!  WOOF!  Show me girl!\n");
-            Cow betty = new Cow("Betty", "Betty is a jumping cow.  One time, she jump so high, she jumped over the moon.\n");
+            Cow betty = new Cow("Betty", "Betty is my jumping cow.  One time, she jump so high, she jumped over the moon.\n");
             newFarm.AnimalSpeak(ed);
             newFarm.AnimalSpeak2(darkwing);
             newFarm.AnimalSpeak3(lassie);
