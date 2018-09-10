@@ -14,19 +14,19 @@ namespace Farm2._4
         }
         public void HorseSpeak(Horse horse)
         {
-            Console.WriteLine(horse.Speech());
+            Console.WriteLine($"{horse.Name()} {horse.Speech()} {horse.Food()} {horse.Ride()}");
         }
         public void DuckSpeak(Duck duck)
         {
-            Console.WriteLine(duck.Speech());
+            Console.WriteLine($"{duck.Name()} {duck.Speech()} {duck.meal()} {duck.Crime()}");
         }
         public void DogSpeak(Dog dog)
         {
-            Console.WriteLine(dog.Speech());
+            Console.WriteLine($"{dog.Name()} {dog.Speech()} {dog.Food()} {dog.Companion()}");
         }
         public void CowSpeak(Cow cow)
         {
-            Console.WriteLine(cow.Speech());
+            Console.WriteLine($"{cow.Name()} {cow.Speech()} {cow.Food()} {cow.Milk()}");
         }
     }
 }
